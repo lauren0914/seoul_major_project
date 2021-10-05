@@ -1,1 +1,2 @@
-# seoul_major_project
+## seoul_major_project
+### 서울시장 경선 시기의 뉴스내용을 기반으로 ‘서울시의 사회이슈를 파악’하는 미니 프로젝트
